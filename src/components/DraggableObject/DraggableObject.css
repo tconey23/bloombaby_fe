@@ -1,0 +1,11 @@
+.plant-here-button {
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.plant-here-button:hover {
+    background-color: white;
+    cursor: pointer;
+}

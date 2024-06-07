@@ -1,0 +1,13 @@
+.delete-plant-button {
+    border: none;
+    /* width: 100px;
+    height: 40px; */
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.delete-plant-button:hover {
+    background-color: red;
+    cursor: pointer;
+    color: white;
+}
